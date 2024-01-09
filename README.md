@@ -18,13 +18,13 @@ The idea originated while conceptualizing a domestic IoT smart home integration 
 
 ## Project Overview (프로젝트 개요)
 
-This project aims to integrate Bluetooth-based wireless products, which lack specific information, into the IoT to become part of the smart home system. This diverges from the traditional approach of using API, SDK, MAC addresses for IoT wireless integration. The project explores how to maximize the wireless capabilities of each device and make IoT accessible to everyone through an app. It focuses on implementing numerous ideas in code using Kotlin for Android app development, primarily for research purposes rather than practical app development.
+This project aims to integrate Bluetooth-based wireless products, which lack specific information, into the IoT to become part of the smart home system. This **diverges from the traditional approach of using API, SDK, MAC addresses for IoT wireless integration.** The project explores how to maximize the wireless capabilities of each device and make IoT accessible to everyone through an app. It focuses on implementing numerous ideas in code using Kotlin for Android app development, primarily for research purposes rather than practical app development.
 
 <br> <br> <br>
 
 ## Project Target Setting (프로젝트 대상 설정)
 
-The focus is on an unidentified Bluetooth-based wireless speaker purchased from a Vietnamese night market. It contains basic information like a 3.7V 1200mAh battery and Bluetooth pairing capability, but lacks crucial details like API and company information, making it an ideal research subject.
+The focus is on an **unidentified Bluetooth-based wireless speaker** purchased from a Vietnamese night market. It contains basic information like a 3.7V 1200mAh battery and Bluetooth pairing capability, but **lacks crucial details like API and company information**, making it an ideal research subject.
 
 <br> <br> <br>
 
