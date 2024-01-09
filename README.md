@@ -54,10 +54,10 @@ Smartphones can easily connect to wireless products through Bluetooth with a sin
 
 ## Bluetooth Connection and Control Logic (블루투스 연결 및 제어 로직)
 
-- **Initial Setup:** The phone's Bluetooth automatically activates upon app launch.
-- **Connection Process:** Sequentially implementing Bluetooth search and connection logic in MainActivity.kt.
-- **Firmware Auto-Check:** Confirming low power mode operation of the speaker and updating firmware if necessary.
-- **Smart Plug Integration:** Indirect power device control through smart plugs if direct control is unfeasible.
+- **Initial Setup :** The phone's Bluetooth automatically activates upon app launch.
+- **Connection Process :** Sequentially implementing Bluetooth search and connection logic in MainActivity.kt.
+- **Firmware Auto-Check :** Confirming low power mode operation of the speaker and updating firmware if necessary.
+- **Smart Plug Integration :** Indirect power device control through smart plugs if direct control is unfeasible.
 
 <br> <br> <br>
 
