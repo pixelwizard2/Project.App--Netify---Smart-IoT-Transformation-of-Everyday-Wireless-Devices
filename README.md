@@ -1,6 +1,6 @@
 # Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices
 _일상의 무선 장치 IoT화를 위한 블루투스 스피커 제어 시스템(App)_  
-[ 작성 중 ~ 2024.01.10 ]
+[ 작성 중 ~2024.01.10 ]
 <p align="right">
   <a href="https://blog.naver.com/pixelwizard/223317548521">
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
