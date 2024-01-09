@@ -82,7 +82,9 @@ Alternative Approaches: Indirect control using smart plugs, custom commands, FOT
 
 This project is an innovative attempt to integrate traditional Bluetooth devices into the IoT environment, aiming to create new value in everyday life by applying smart technology. However, forced wireless firmware updates and port forwarding activities were avoided due to their potential overlap with hacking. The project focuses on exploring remote operation and control of wireless devices using basic Bluetooth functionality.
 
-Future Directions:
+<br> <br> <br>
+
+## Future Directions:
 
 Device Support Expansion: Broaden development approaches to various Bluetooth-based devices.
 Function Improvement: Enhance user interfaces and device-specific functionalities.
