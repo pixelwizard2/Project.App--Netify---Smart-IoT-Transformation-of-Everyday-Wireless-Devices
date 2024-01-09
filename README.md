@@ -38,7 +38,7 @@ The focus is on an **unidentified Bluetooth-based wireless speaker** purchased f
 
 ## Research Approach (프로젝트 연구 방향)
 
-Smartphones can easily connect to wireless products through Bluetooth with a single button press. However, devices like Bluetooth speakers require manual interaction for connection, especially for new or shared products. The project aims to develop a mechanism where wireless products can be turned on or off upon user request through an app, and the app automatically registers and connects to the device.
+Smartphones can easily connect to wireless products through Bluetooth with a single button press. However, devices like Bluetooth speakers **require manual interaction for connection**, especially for new or shared products. The project **aims to develop a mechanism where wireless products can be turned on or off upon user request through an app, and the app automatically registers and connects to the device.**
 
 <br> <br> <br>
 
