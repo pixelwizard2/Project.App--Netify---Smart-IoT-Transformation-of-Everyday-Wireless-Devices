@@ -8,31 +8,39 @@ _일상의 무선 장치 IoT화를 위한 블루투스 스피커 제어 시스�
   
 ![화면4](https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/29a1e1cc-0f22-453b-97dd-d65fbf48d09f)
 
-## Project Genesis:
+## Project Genesis
 
 The idea originated while conceptualizing a domestic IoT smart home integration project. It was noticed that people commonly use wireless devices without recognizing their unique specifications (API, MAC, etc.). This led to concerns that in the future smart home era, current wireless products unable to remotely interconnect due to lack of technological advancement might become obsolete. To prevent such significant waste of societal resources, this research project was initiated.
 
 **※ Development Period : 2023.09.12 ~ 2023.09.14 (9.5h)**
 
+<br> <br> <br>
 
-
-## Project Overview:
+## Project Overview
 
 This project aims to integrate Bluetooth-based wireless products, which lack specific information, into the IoT to become part of the smart home system. This diverges from the traditional approach of using API, SDK, MAC addresses for IoT wireless integration. The project explores how to maximize the wireless capabilities of each device and make IoT accessible to everyone through an app. It focuses on implementing numerous ideas in code using Kotlin for Android app development, primarily for research purposes rather than practical app development.
 
-## Project Target Setting:
+<br> <br> <br>
+
+## Project Target Setting
 
 The focus is on an unidentified Bluetooth-based wireless speaker purchased from a Vietnamese night market. It contains basic information like a 3.7V 1200mAh battery and Bluetooth pairing capability, but lacks crucial details like API and company information, making it an ideal research subject.
 
-## Project Direction:
+<br> <br> <br>
+
+## Project Direction
 
 The aim is to find common household wireless products and devise various solutions for their IoT integration. The goal is to innovate user experience by integrating everyday Bluetooth devices into the IoT environment, simplifying user interfaces, and applying IoT technology in daily life.
 
-## Research Approach:
+<br> <br> <br>
+
+## Research Approach
 
 Smartphones can easily connect to wireless products through Bluetooth with a single button press. However, devices like Bluetooth speakers require manual interaction for connection, especially for new or shared products. The project aims to develop a mechanism where wireless products can be turned on or off upon user request through an app, and the app automatically registers and connects to the device.
 
-## Technical Stack and Libraries:
+<br> <br> <br>
+
+## Technical Stack and Libraries
 
 Development Environment: Android Studio, Kotlin
 UI Design/Planning: XML-based user interface with simple ON/OFF switch
@@ -40,14 +48,18 @@ Bluetooth Connection and Management: Android Bluetooth API
 Firmware Management: FOTA (Firmware Over The Air) for remote updates
 Smart Plug Control: Using HTTP protocol-based RESTful API
 
-## Bluetooth Connection and Control Logic:
+<br> <br> <br>
+
+## Bluetooth Connection and Control Logic
 
 Initial Setup: The phone's Bluetooth automatically activates upon app launch.
 Connection Process: Sequentially implementing Bluetooth search and connection logic in MainActivity.kt.
 Firmware Auto-Check: Confirming low power mode operation of the speaker and updating firmware if necessary.
 Smart Plug Integration: Indirect power device control through smart plugs if direct control is unfeasible.
 
-## Project Attempts:
+<br> <br> <br>
+
+## Project Attempts
 
 Develop a system where the app finds and connects to a low-power Bumblebee Bluetooth speaker.
 Automatically check for low-power ON/OFF capability in firmware.
@@ -57,12 +69,16 @@ Change the app interface and device power status with a button press.
 Turn off the external power and switch to low-power mode (if the firmware supports it).
 Challenges and Solutions:
 
+<br> <br> <br>
 
-## ???
+## Problems and solutions
+
 Technical Limitation: Currently, remote control of wireless devices without power (Bluetooth off) is not feasible without advanced design for constant low-power state maintenance, similar to TV remotes.
 Alternative Approaches: Indirect control using smart plugs, custom commands, FOTA for firmware updates, or equivalent methods (port forwarding, remote access settings).
 
-## Conclusion:
+<br> <br> <br>
+
+## Conclusion
 
 This project is an innovative attempt to integrate traditional Bluetooth devices into the IoT environment, aiming to create new value in everyday life by applying smart technology. However, forced wireless firmware updates and port forwarding activities were avoided due to their potential overlap with hacking. The project focuses on exploring remote operation and control of wireless devices using basic Bluetooth functionality.
 
