@@ -76,7 +76,7 @@ By forcing the power on, the power of the Bumblebee Bluetooth speaker operates f
 ## Challenges and solutions (문제점 및 해결 방법)
 
 - **Technical Limitation :** Currently, remote control of wireless devices without power (Bluetooth off) is not feasible without advanced design for constant low-power state maintenance, similar to TV remotes.
-- **Alternative Approaches :** Indirect control using smart plugs, custom commands, FOTA for firmware updates, or equivalent methods (port forwarding, remote access settings).
+- **Alternative Approaches :** Indirect control using smart plugs, custom commands, FOTA(Firmware Over The Air) for firmware updates, or equivalent methods (port forwarding, remote access settings).
 
 <br> <br> <br>
 
