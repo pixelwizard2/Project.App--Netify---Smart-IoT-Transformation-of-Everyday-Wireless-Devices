@@ -30,9 +30,9 @@ The focus is on an **unidentified Bluetooth-based wireless speaker** purchased f
 
 ## Project Direction (프로젝트 목표 방향 )
 
-- **The aim is** to find common household wireless products and devise various solutions for their IoT integration. 
+- **The aim is** to find common household wireless products and **devise various solutions for their IoT integration.** 
 - **The goal is** to innovate user experience by integrating everyday Bluetooth devices into the IoT environment,  
-                simplifying user interfaces, and applying IoT technology in daily life.
+                simplifying user interfaces, and **applying IoT technology in daily life.**
 
 <br> <br> <br>
 
