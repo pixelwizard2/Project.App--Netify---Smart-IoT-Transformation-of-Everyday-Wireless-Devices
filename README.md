@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
   </a> </p>  
   
-![화면3](https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/1bf6f6f7-29a6-4c8f-9d8c-305d71d132a7)
+![화면4](https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/29a1e1cc-0f22-453b-97dd-d65fbf48d09f)
 
 ## Project Genesis:
 
