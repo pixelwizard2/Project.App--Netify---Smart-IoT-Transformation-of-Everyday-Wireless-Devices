@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
   </a> </p>  
   
-​![2  arts_colorization](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/c8b
+![화면2](https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/7b2b4b43-7b1a-4e14-b5c1-319d6b94af98)
 
 ## Project Genesis:
 
