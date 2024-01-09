@@ -44,11 +44,11 @@ Smartphones can easily connect to wireless products through Bluetooth with a sin
 
 ## Technical Stack and Libraries (기술 스택 및 라이브러리)
 
-- **Development Environment:** Android Studio, Kotlin
-- **UI Design/Planning:** XML-based user interface with simple ON/OFF switch
-- **Bluetooth Connection and Management:** Android Bluetooth API
-- **Firmware Management:** FOTA (Firmware Over The Air) for remote updates
-- **Smart Plug Control:** Using HTTP protocol-based RESTful API
+- **Development Environment :** Android Studio, Kotlin
+- **UI Design/Planning :** XML-based user interface with simple ON/OFF switch
+- **Bluetooth Connection and Management :** Android Bluetooth API
+- **Firmware Management :** FOTA (Firmware Over The Air) for remote updates
+- **Smart Plug Control :** Using HTTP protocol-based RESTful API
 
 <br> <br> <br>
 
@@ -75,8 +75,8 @@ By forcing the power on, the power of the Bumblebee Bluetooth speaker operates f
 
 ## Challenges and solutions (문제점 및 해결 방법)
 
-- **Technical Limitation:** Currently, remote control of wireless devices without power (Bluetooth off) is not feasible without advanced design for constant low-power state maintenance, similar to TV remotes.
-- **Alternative Approaches:** Indirect control using smart plugs, custom commands, FOTA for firmware updates, or equivalent methods (port forwarding, remote access settings).
+- **Technical Limitation :** Currently, remote control of wireless devices without power (Bluetooth off) is not feasible without advanced design for constant low-power state maintenance, similar to TV remotes.
+- **Alternative Approaches :** Indirect control using smart plugs, custom commands, FOTA for firmware updates, or equivalent methods (port forwarding, remote access settings).
 
 <br> <br> <br>
 
