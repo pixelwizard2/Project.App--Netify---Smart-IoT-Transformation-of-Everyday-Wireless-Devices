@@ -1,10 +1,14 @@
 # Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices
 일상의 무선 장치 IoT화를 위한 블루투스 스피커 제어 시스템(App)
 
+<p align="right">
+  <a href="https://blog.naver.com/pixelwizard/223317548521">
+    <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
+  </a> </p>  
+  
+​![2  arts_colorization](https://github.com/pixelwizard2/Project.AI--ColorQuest---AI-s-Journey-in-Reviving-WWII-Imagery/assets/138272416/c8b
 
-Project Title: Bluetooth Speaker Control System for IoT Transformation of Everyday Wireless Devices
-
-Project Genesis:
+## Project Genesis:
 
 The idea originated while conceptualizing a domestic IoT smart home integration project. It was noticed that people commonly use wireless devices without recognizing their unique specifications (API, MAC, etc.). This led to concerns that in the future smart home era, current wireless products unable to remotely interconnect due to lack of technological advancement might become obsolete. To prevent such significant waste of societal resources, this research project was initiated.
 
