@@ -69,14 +69,13 @@ Smartphones can easily connect to wireless products through Bluetooth with a sin
 - **Step 4 :** Automate steps 1-3 in the app, and manage power through Bluetooth location and permission requests or smart plugs.
 - **Step 5 :** Change the app interface and device power status with a button press.
 - **Step 6 :** Turn off the external power and switch to low-power mode (if the firmware supports it).
-- **Step 7 :** Challenges and Solutions:
 
 <br> <br> <br>
 
-## Problems and solutions (문제점 및 해결 방법)
+## Challenges and solutions (문제점 및 해결 방법)
 
-Technical Limitation: Currently, remote control of wireless devices without power (Bluetooth off) is not feasible without advanced design for constant low-power state maintenance, similar to TV remotes.
-Alternative Approaches: Indirect control using smart plugs, custom commands, FOTA for firmware updates, or equivalent methods (port forwarding, remote access settings).
+- **Technical Limitation:** Currently, remote control of wireless devices without power (Bluetooth off) is not feasible without advanced design for constant low-power state maintenance, similar to TV remotes.
+- **Alternative Approaches:** Indirect control using smart plugs, custom commands, FOTA for firmware updates, or equivalent methods (port forwarding, remote access settings).
 
 <br> <br> <br>
 
@@ -88,6 +87,6 @@ This project is an innovative attempt to integrate traditional Bluetooth devices
 
 ## Future Directions (향후 발전 방향)
 
-Device Support Expansion: Broaden development approaches to various Bluetooth-based devices.
-Function Improvement: Enhance user interfaces and device-specific functionalities.
-New Technology Application: Integrate the latest IoT trends and AI technologies (Computer Vision) for convenient in-home wireless product modeling and device interconnection system via mobile apps.
+- **Device Support Expansion:** Broaden development approaches to various Bluetooth-based devices.
+- **Function Improvement:** Enhance user interfaces and device-specific functionalities.
+- **New Technology Application:** Integrate the latest IoT trends and AI technologies (Computer Vision) for convenient in-home wireless product modeling and device interconnection system via mobile apps.
