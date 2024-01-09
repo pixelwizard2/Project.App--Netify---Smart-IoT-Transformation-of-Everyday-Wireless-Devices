@@ -42,11 +42,11 @@ Smartphones can easily connect to wireless products through Bluetooth with a sin
 
 ## Technical Stack and Libraries (기술 스택 및 라이브러리)
 
-Development Environment: Android Studio, Kotlin
-UI Design/Planning: XML-based user interface with simple ON/OFF switch
-Bluetooth Connection and Management: Android Bluetooth API
-Firmware Management: FOTA (Firmware Over The Air) for remote updates
-Smart Plug Control: Using HTTP protocol-based RESTful API
+- **Development Environment:** Android Studio, Kotlin
+- **UI Design/Planning:** XML-based user interface with simple ON/OFF switch
+- **Bluetooth Connection and Management:** Android Bluetooth API
+- **Firmware Management:** FOTA (Firmware Over The Air) for remote updates
+- **Smart Plug Control:** Using HTTP protocol-based RESTful API
 
 <br> <br> <br>
 
