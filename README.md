@@ -61,13 +61,13 @@ Smartphones can easily connect to wireless products through Bluetooth with a sin
 
 ## Project Attempts (프로젝트 시도 사항)
 
-- **Step 1 :**Develop a system where the app finds and connects to a low-power Bumblebee Bluetooth speaker.
-- **Step 2 :**Automatically check for low-power ON/OFF capability in firmware.
-- **Step 3 :**If unavailable, remotely upgrade the firmware to control the speaker's power.
-- **Step 4 :**Automate steps 1-3 in the app, and manage power through Bluetooth location and permission requests or smart plugs.
-- **Step 5 :**Change the app interface and device power status with a button press.
-- **Step 6 :**Turn off the external power and switch to low-power mode (if the firmware supports it).
-- **Step 7 :**Challenges and Solutions:
+- **Step 1 :** Develop a system where the app finds and connects to a low-power Bumblebee Bluetooth speaker.
+- **Step 2 :** Automatically check for low-power ON/OFF capability in firmware.
+- **Step 3 :** If unavailable, remotely upgrade the firmware to control the speaker's power.
+- **Step 4 :** Automate steps 1-3 in the app, and manage power through Bluetooth location and permission requests or smart plugs.
+- **Step 5 :** Change the app interface and device power status with a button press.
+- **Step 6 :** Turn off the external power and switch to low-power mode (if the firmware supports it).
+- **Step 7 :** Challenges and Solutions:
 
 <br> <br> <br>
 
