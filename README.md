@@ -12,7 +12,7 @@ _일상의 무선 장치 IoT화를 위한 블루투스 스피커 제어 시스�
 
 The idea originated while conceptualizing a domestic IoT smart home integration project. It was noticed that people commonly use wireless devices without recognizing their unique specifications (API, MAC, etc.). This led to concerns that in the future smart home era, current wireless products unable to remotely interconnect due to lack of technological advancement might become obsolete. To prevent such significant waste of societal resources, this research project was initiated.
 
-**※ Development Period : 2023.09.12 ~ 2023.09.14 (9.5h)**
+**※ Development Period : 2024.01.09 (9.5h)**
 
 <br> <br> <br>
 
