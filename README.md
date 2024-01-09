@@ -90,4 +90,4 @@ This project is an innovative attempt to integrate traditional Bluetooth devices
 
 - **Device Support Expansion:** Broaden development approaches to various Bluetooth-based devices.
 - **Function Improvement:** Enhance user interfaces and device-specific functionalities.
-- **New Technology Application:** Integrate the latest IoT trends and AI technologies (Computer Vision) for convenient in-home wireless product modeling and device interconnection system via mobile apps.
+- **New Technology Application: Integrate the latest IoT trends and AI technologies (Computer Vision) for convenient in-home wireless product modeling and device interconnection system via mobile apps.**
