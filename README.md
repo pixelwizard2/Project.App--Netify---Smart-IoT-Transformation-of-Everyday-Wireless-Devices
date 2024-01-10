@@ -85,7 +85,7 @@ The project **aims to develop a mechanism where wireless products can be turned 
 
 <img width="804" alt="화면11" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/5dda1118-3c6d-4946-9849-02a746a7fe8d">  
 
-- **Step 4 :** As soon as the app runs, the process from 'steps 1 to 3' is automatically carried out in the code unit, and if the power is not turned on, it requests Bluetooth location and permission and accesses a smart plug located adjacent to the device (bumblebee speaker). By forcing the power on, the power of the Bumblebee Bluetooth speaker operates forcely.  
+- **Step 4 :** As soon as the app runs, the process from '**steps 1 to 3**' is automatically carried out in the code unit, and if the power is not turned on, it requests Bluetooth location and permission and accesses a smart plug located adjacent to the device (bumblebee speaker). By forcing the power on, the power of the Bumblebee Bluetooth speaker operates forcely.  
  
 <img width="803" alt="화면10" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/57cb7b03-c424-459e-b26d-a2935dfd82b6">  
 
