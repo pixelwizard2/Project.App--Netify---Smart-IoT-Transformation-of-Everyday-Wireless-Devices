@@ -103,7 +103,10 @@ The project **aims to develop a mechanism where wireless products can be turned 
 
 ## Conclusion (결론)
 
-This project is an innovative attempt to integrate traditional Bluetooth devices into the IoT environment, aiming to create new value in everyday life by applying smart technology. However, forced wireless firmware updates and port forwarding activities were avoided due to their potential overlap with hacking. The project focuses on exploring remote operation and control of wireless devices using basic Bluetooth functionality.  
+This project is an innovative attempt to integrate traditional Bluetooth devices into the IoT environment, aiming to create new value in everyday life by applying smart technology.  
+
+However, forced wireless firmware updates and port forwarding activities were avoided due to their potential overlap with hacking. The project focuses on exploring remote operation and control of wireless devices using basic Bluetooth functionality.  
+
 While carrying out this project, I thought about **how to remotely operate and control devices wirelessly through a purely basic Bluetooth-based function code configuration**, and tried to plan app development in various ways. In order to come up with a more effective solution, I will first focus on research and then conduct testing and performance evaluation based on this.
 
 <br>
