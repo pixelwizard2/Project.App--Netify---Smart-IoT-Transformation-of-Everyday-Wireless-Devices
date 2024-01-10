@@ -45,7 +45,11 @@ It contains basic information like a 3.7V 1200mAh battery and Bluetooth pairing 
 
 ## Research Approach (프로젝트 연구 방향)
 
-Smartphones can easily connect to wireless products through Bluetooth with a single button press. However, devices like Bluetooth speakers **require manual interaction for connection**, especially for new or shared products. The project **aims to develop a mechanism where wireless products can be turned on or off upon user request through an app, and the app automatically registers and connects to the device.**
+Smartphones can easily connect to wireless products through Bluetooth with a single button press. 
+<br>
+<img width="914" alt="화면6" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/c5c3f241-4a9a-4043-9c68-9e524781ce64">
+<br>
+However, devices like Bluetooth speakers **require manual interaction for connection**, especially for new or shared products. The project **aims to develop a mechanism where wireless products can be turned on or off upon user request through an app, and the app automatically registers and connects to the device.**
 
 <br> <br> <br>
 
