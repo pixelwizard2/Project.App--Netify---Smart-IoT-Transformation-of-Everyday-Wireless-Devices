@@ -1,6 +1,5 @@
 # Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices
 _비-IoT 무선 장치 IoT 통합을 위한 블루투스 스피커 자동화 제어 시스템 연구(App)_  
-
 <p align="right">
   <a href="https://blog.naver.com/pixelwizard/223317548521">
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
@@ -80,19 +79,16 @@ The project **aims to develop a mechanism where wireless products can be turned 
 - **Step 1 :** Develop a system where the app finds and connects to a low-power Bumblebee Bluetooth speaker.
 - **Step 2 :** Automatically check for low-power ON/OFF capability in firmware.
 <br>
-
 <img width="804" alt="화면8" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/5f0b4fd4-8636-4eb3-b49a-168d3d42364b">
 
 - **Step 3 :** If unavailable, remotely upgrade the firmware to control the speaker's power.
 <br>
-
 <img width="804" alt="화면11" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/5dda1118-3c6d-4946-9849-02a746a7fe8d">
 
 - **Step 4 :** As soon as the app runs, the process from 'steps 1 to 3' is automatically carried out in the code unit, and if the power is not turned on, it requests Bluetooth location and permission and accesses a smart plug located adjacent to the device (bumblebee speaker). By forcing the power on, the power of the Bumblebee Bluetooth speaker operates forcely.
 <br>  
-
 <img width="803" alt="화면10" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/57cb7b03-c424-459e-b26d-a2935dfd82b6">
-
+<br>
 - **Step 5 :** If the power is turned on, the smartphone app screen switches. When you press the power button again on the changed screen, the screen changes and the wireless device is commanded to turn off at the same time.
 
 - **Step 6 :** Turn off the external power and switch to low-power mode (Firmware capable of low-power switching is pre-installed when processed step 3).
