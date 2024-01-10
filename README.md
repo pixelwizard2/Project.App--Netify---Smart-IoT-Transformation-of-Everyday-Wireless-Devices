@@ -80,17 +80,22 @@ The project **aims to develop a mechanism where wireless products can be turned 
 - **Step 1 :** Develop a system where the app finds and connects to a low-power Bumblebee Bluetooth speaker.
 - **Step 2 :** Automatically check for low-power ON/OFF capability in firmware.
 
+
 <img width="804" alt="화면8" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/5f0b4fd4-8636-4eb3-b49a-168d3d42364b">
 
 - **Step 3 :** If unavailable, remotely upgrade the firmware to control the speaker's power.
-- **Step 4 :** As soon as the app runs, the process from 'steps 1 to 3' is automatically carried out in the code unit, and if the power is not turned on, it requests Bluetooth location and permission and accesses a smart plug located adjacent to the device (bumblebee speaker).  
+
+
+<img width="804" alt="화면11" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/5dda1118-3c6d-4946-9849-02a746a7fe8d">
+
+- **Step 4 :** As soon as the app runs, the process from 'steps 1 to 3' is automatically carried out in the code unit, and if the power is not turned on, it requests Bluetooth location and permission and accesses a smart plug located adjacent to the device (bumblebee speaker).
+  
+
+<img width="803" alt="화면10" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/57cb7b03-c424-459e-b26d-a2935dfd82b6">
 By forcing the power on, the power of the Bumblebee Bluetooth speaker operates forcely.
 - **Step 5 :** If the power is turned on, the smartphone app screen switches. When you press the power button again on the changed screen, the screen changes and the wireless device is commanded to turn off at the same time.
 
-<img width="803" alt="화면10" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/57cb7b03-c424-459e-b26d-a2935dfd82b6">
-
 - **Step 6 :** Turn off the external power and switch to low-power mode (Firmware capable of low-power switching is pre-installed when processed step 3).
-
 <br>
 
 ## Challenges and solutions (문제점 및 해결 방법)
