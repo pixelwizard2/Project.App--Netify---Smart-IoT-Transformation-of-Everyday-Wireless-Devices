@@ -33,6 +33,7 @@ The focus is on an **unidentified Bluetooth-based wireless speaker** purchased f
 <img width="662" alt="화면5" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/a7c49689-312a-4df0-8997-8456c52e9673">
 <br> 
 It contains basic information like a 3.7V 1200mAh battery and Bluetooth pairing capability, but **lacks crucial details like API and company information**, making it an ideal research subject.
+
 <br>
 
 ## Project Direction (프로젝트 목표 방향 )
