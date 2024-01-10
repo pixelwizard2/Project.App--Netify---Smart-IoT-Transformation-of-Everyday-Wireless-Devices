@@ -74,7 +74,7 @@ The project **aims to develop a mechanism where wireless products can be turned 
 <br>
 
 ## Project Attempts (프로젝트 시도 사항)
-<br>
+
 <img width="1094" alt="화면7" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/05c4d82e-751d-4722-b39a-baf623a668aa">  
 
 - **Step 1 :** Develop a system where the app finds and connects to a low-power Bumblebee Bluetooth speaker.
