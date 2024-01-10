@@ -33,7 +33,7 @@ The focus is on an **unidentified Bluetooth-based wireless speaker** purchased f
 <img width="662" alt="화면5" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/a7c49689-312a-4df0-8997-8456c52e9673">
 <br> 
 It contains basic information like a 3.7V 1200mAh battery and Bluetooth pairing capability, but **lacks crucial details like API and company information**, making it an ideal research subject.
-<br> <br> <br>
+<br> <br>
 
 ## Project Direction (프로젝트 목표 방향 )
 
@@ -41,17 +41,17 @@ It contains basic information like a 3.7V 1200mAh battery and Bluetooth pairing 
 - **The goal is** to innovate user experience by integrating everyday Bluetooth devices into the IoT environment,  
                 simplifying user interfaces, and **applying IoT technology in daily life.**
 
-<br> <br> <br>
+<br> <br>
 
 ## Research Approach (프로젝트 연구 방향)
 
-Smartphones can easily connect to wireless products through Bluetooth with a single button press. 
+Smartphones can easily connect to wireless products through Bluetooth with a single button press. However, devices like Bluetooth speakers **require manual interaction for connection**, especially for new or shared products. 
 <br>
 <img width="914" alt="화면6" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/c5c3f241-4a9a-4043-9c68-9e524781ce64">
 <br>
-However, devices like Bluetooth speakers **require manual interaction for connection**, especially for new or shared products. The project **aims to develop a mechanism where wireless products can be turned on or off upon user request through an app, and the app automatically registers and connects to the device.**
+The project **aims to develop a mechanism where wireless products can be turned on or off upon user request through an app, and the app automatically registers and connects to the device.**
 
-<br> <br> <br>
+<br> <br>
 
 ## Technical Stack and Libraries (기술 스택 및 라이브러리)
 
@@ -61,7 +61,7 @@ However, devices like Bluetooth speakers **require manual interaction for connec
 - **Firmware Management :** FOTA (Firmware Over The Air) for remote updates
 - **Smart Plug Control :** Using HTTP protocol-based RESTful API
 
-<br> <br> <br>
+<br> <br> 
 
 ## Bluetooth Connection and Control Logic (블루투스 연결 및 제어 로직)
 
@@ -70,7 +70,7 @@ However, devices like Bluetooth speakers **require manual interaction for connec
 - **Firmware Auto-Check :** Confirming low power mode operation of the speaker and updating firmware if necessary.
 - **Smart Plug Integration :** Indirect power device control through smart plugs if direct control is unfeasible.
 
-<br> <br> <br>
+<br> <br>
 
 ## Project Attempts (프로젝트 시도 사항)
 
@@ -82,20 +82,20 @@ By forcing the power on, the power of the Bumblebee Bluetooth speaker operates f
 - **Step 5 :** If the power is turned on, the smartphone app screen switches. When you press the power button again on the changed screen, the screen changes and the wireless device is commanded to turn off at the same time.
 - **Step 6 :** Turn off the external power and switch to low-power mode (Firmware capable of low-power switching is pre-installed when processed step 3).
 
-<br> <br> <br>
+<br> <br>
 
 ## Challenges and solutions (문제점 및 해결 방법)
 
 - **Technical Limitation :** Currently, remote control of wireless devices without power (Bluetooth off) is not feasible without advanced design for constant low-power state maintenance, similar to TV remotes.
 - **Alternative Approaches :** Indirect control using smart plugs, custom commands, FOTA(Firmware Over The Air) for firmware updates, or equivalent methods (port forwarding, remote access settings).
 
-<br> <br> <br>
+<br> <br>
 
 ## Conclusion (결론)
 
 This project is an innovative attempt to integrate traditional Bluetooth devices into the IoT environment, aiming to create new value in everyday life by applying smart technology. However, forced wireless firmware updates and port forwarding activities were avoided due to their potential overlap with hacking. The project focuses on exploring remote operation and control of wireless devices using basic Bluetooth functionality.
 
-<br> <br> <br>
+<br> <br>
 
 ## Future Directions (향후 발전 방향)
 
