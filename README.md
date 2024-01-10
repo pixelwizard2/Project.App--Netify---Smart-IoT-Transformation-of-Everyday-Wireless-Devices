@@ -19,10 +19,10 @@ The idea originated while conceptualizing a domestic IoT smart home integration 
 ## Project Overview (프로젝트 개요)
 
 This project aims to integrate Bluetooth-based wireless products, which lack specific information, into the IoT to become part of the smart home system. This **diverges from the traditional approach of using API, SDK, MAC addresses for IoT wireless integration.** 
-
+<br>
 ![화면2](https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/7b2b4b43-7b1a-4e14-b5c1-319d6b94af98)
 <br> <br>
-The project explores how to maximize the wireless capabilities of each device and make IoT accessible to everyone through an app. It focuses on implementing numerous ideas in code using Kotlin for Android app development, primarily for research purposes rather than practical app development.
+The project explores how to maximize the wireless capabilities of each device and **make IoT accessible to everyone through an app**. It focuses on implementing numerous ideas in code using Kotlin for Android app development, primarily for research purposes rather than practical app development.
 
 <br> <br> <br>
 
