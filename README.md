@@ -14,7 +14,7 @@ The idea originated while conceptualizing a domestic IoT smart home integration 
 
 **※ Development Period : 2024.01.09 ~ 2024.01.10 (13.5h)**
 
-<br> <br> <br>
+<br> <br>
 
 ## Project Overview (프로젝트 개요)
 
