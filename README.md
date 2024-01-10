@@ -24,7 +24,7 @@ This project aims to integrate Bluetooth-based wireless products, which lack spe
 <br> <br>
 The project explores how to maximize the wireless capabilities of each device and **make IoT accessible to everyone through an app**. It focuses on implementing numerous ideas in code using Kotlin for Android app development, primarily for research purposes rather than practical app development.
 
-<br> <br> <br>
+<br> <br>
 
 ## Project Target Setting (프로젝트 대상 설정)
 
