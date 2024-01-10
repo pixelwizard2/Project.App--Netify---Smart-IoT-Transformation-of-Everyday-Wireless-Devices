@@ -74,11 +74,10 @@ The project **aims to develop a mechanism where wireless products can be turned 
 <br>
 
 ## Project Attempts (프로젝트 시도 사항)
+<br>
+<img width="1094" alt="화면7" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/05c4d82e-751d-4722-b39a-baf623a668aa">  
 
 - **Step 1 :** Develop a system where the app finds and connects to a low-power Bumblebee Bluetooth speaker.
-<br>
-<img width="1094" alt="화면7" src="https://github.com/pixelwizard2/Project.App--Netify---Smart-IoT-Transformation-of-Everyday-Wireless-Devices/assets/138272416/05c4d82e-751d-4722-b39a-baf623a668aa">
-<br>
 - **Step 2 :** Automatically check for low-power ON/OFF capability in firmware.
 - **Step 3 :** If unavailable, remotely upgrade the firmware to control the speaker's power.
 - **Step 4 :** As soon as the app runs, the process from 'steps 1 to 3' is automatically carried out in the code unit, and if the power is not turned on, it requests Bluetooth location and permission and accesses a smart plug located adjacent to the device (bumblebee speaker).  
